@@ -1,4 +1,4 @@
-name: test-one
+name: Lint Code Base
 on: [push]
 jobs:
   run-commands:
